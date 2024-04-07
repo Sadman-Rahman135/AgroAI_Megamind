@@ -6,12 +6,11 @@
 **Key Features**
 
 * **Realtime Weather:**
-    * Displays current weather conditions for your location or any specified city.
-    * Provides forecasts (e.g., hourly, daily).
-    * Includes weather alerts (if applicable). 
+    * Displays current weather conditions for your location or any specified city and also provides information of predicted weather for the next 6 days excluding the current day.
+    * Provides speed of wind , humidity and the other atmospheric features.
 * **ChatGPT Assistant:** 
-    * Ask questions and get insightful answers powered by ChatGPT. 
-    * Use it for summaries, translations, or creative text generation.
+    * Ask questions and get insightful answers powered by ChatGPT about basics of agriculture and gardenning. 
+    * Also espicalizes in 7 to 8 plants in all sectors like sunglight , fertilizer, pest and disease control, Watering and the other aspects needed for growing those plants.
 * **Versatile Reminders:** 
-    * Set reminders for tasks, appointments,  or important events.
-    * Configure alerts with custom sounds and lead times.
+    * Set reminders for tasks, appointments,  or important events about the production of crops in field or in garden.
+    * Configure alerts which are sent in email and thus can also be more efficient so that the crops/plants are not damaged.
